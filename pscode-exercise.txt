@@ -1,9 +1,11 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-a + b = c
+2 + 4 = 6
 
 num1 + num2 = sum
+   2 + 4 = 6
 print sum
+   6
 
 ask for 2 numbers 
 add the 2 number together 
@@ -12,7 +14,8 @@ print on the screen the sum of those 2 numbers
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+     Even 
+if its odd repeat the process with other number
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -22,6 +25,30 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+     input n1, n2, n3, n4, n5 ====1,2,3,4,5
+
+     avg = (n1 + n2 + n3 + n4 + n5)/5  1+2+3+4+5/5 =15/5 =3
+
+    small = n1
+
+     large = n2
+
+    for i = 1 to 5:
+
+   if n1 > n2 then:
+
+       small = n1
+
+   if n1 < n2: then:
+
+       large = n2
+
+   print("Average:", avg) = 3
+
+    print("Smallest:", minimum)=1
+
+     print("Largest:", maximum)=5
+
+I have taken 1 to 5 numbers and added  to found out the average of 5 numbers. 
 
 -- END --
